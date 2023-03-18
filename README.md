@@ -1,1 +1,0 @@
-# TripDoodle-frontend
